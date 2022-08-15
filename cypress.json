@@ -1,0 +1,18 @@
+{
+    "experimentalSessionAndOrigin" : true,
+    "watchForFileChanges" : false,
+    "reporter" : "cypress-mochawesome-reporter",
+    "reporterOptions" : {
+        "reportDir": "cypress/report",
+        "code" : true,
+        "overwrite" : false,
+        "reportFilename" : "Trello Automation Report",
+        "autoOpen" : false,
+        "charts" : true,
+        "reportPageTitle": "Trello Automation Report",
+        "timestamp" : "default"
+    },
+    "video" : false,    
+    "defaultCommandTimeout": 20000,
+    "retries" : 2
+}

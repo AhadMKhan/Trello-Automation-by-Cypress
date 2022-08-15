@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "cypress": "^9.7.0"
+  },
+  "devDependencies": {
+    "@4tw/cypress-drag-drop": "^2.2.1",
+    "cypress-mochawesome-reporter": "^3.2.0"
+  }
+}

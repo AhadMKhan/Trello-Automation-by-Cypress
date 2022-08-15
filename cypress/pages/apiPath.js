@@ -1,0 +1,6 @@
+export const basePath = 'https://api.trello.com/1'
+export const boardAddPath = '/boards/?'
+export const boardDeletePath = '/boards/'
+export const listAddPath = '/lists?'
+export const cardAddPath = '/cards?'
+export const cardEditPath = '/cards/'

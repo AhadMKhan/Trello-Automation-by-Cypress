@@ -1,0 +1,6 @@
+export const key = '945a2c8f0d31ddd2faa4b5e22d950dca'
+export const token = '753a92196fcd07cc4bd7ea60947771d42b9e00c47e58c4c475b9819db5a98c23'
+export const email = 'ahad-test-trello@yopmail.com'
+export const password = 'unzertest'
+export const name = 'Ahad'
+export const Url = 'https://trello.com'
